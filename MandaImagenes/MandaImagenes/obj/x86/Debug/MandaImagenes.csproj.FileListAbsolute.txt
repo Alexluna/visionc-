@@ -1,0 +1,15 @@
+C:\Users\Omar\Desktop\ComunicacioncsharpAandroid\MandaImagenes\MandaImagenes\bin\Debug\MandaImagenes.exe
+C:\Users\Omar\Desktop\ComunicacioncsharpAandroid\MandaImagenes\MandaImagenes\bin\Debug\MandaImagenes.pdb
+C:\Users\Omar\Desktop\ComunicacioncsharpAandroid\MandaImagenes\MandaImagenes\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Omar\Desktop\ComunicacioncsharpAandroid\MandaImagenes\MandaImagenes\bin\Debug\AForge.Video.dll
+C:\Users\Omar\Desktop\ComunicacioncsharpAandroid\MandaImagenes\MandaImagenes\bin\Debug\AForge.dll
+C:\Users\Omar\Desktop\ComunicacioncsharpAandroid\MandaImagenes\MandaImagenes\bin\Debug\AForge.Video.xml
+C:\Users\Omar\Desktop\ComunicacioncsharpAandroid\MandaImagenes\MandaImagenes\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Omar\Desktop\ComunicacioncsharpAandroid\MandaImagenes\MandaImagenes\bin\Debug\AForge.xml
+C:\Users\Omar\Desktop\ComunicacioncsharpAandroid\MandaImagenes\MandaImagenes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Omar\Desktop\ComunicacioncsharpAandroid\MandaImagenes\MandaImagenes\obj\x86\Debug\MandaImagenes.Form1.resources
+C:\Users\Omar\Desktop\ComunicacioncsharpAandroid\MandaImagenes\MandaImagenes\obj\x86\Debug\MandaImagenes.Properties.Resources.resources
+C:\Users\Omar\Desktop\ComunicacioncsharpAandroid\MandaImagenes\MandaImagenes\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Omar\Desktop\ComunicacioncsharpAandroid\MandaImagenes\MandaImagenes\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Omar\Desktop\ComunicacioncsharpAandroid\MandaImagenes\MandaImagenes\obj\x86\Debug\MandaImagenes.exe
+C:\Users\Omar\Desktop\ComunicacioncsharpAandroid\MandaImagenes\MandaImagenes\obj\x86\Debug\MandaImagenes.pdb

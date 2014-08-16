@@ -1,0 +1,13 @@
+C:\Users\Omar\Desktop\ComunicacioncsharpAandroid\VisionRobot\VisionRobot\bin\Debug\VisionRobot.exe
+C:\Users\Omar\Desktop\ComunicacioncsharpAandroid\VisionRobot\VisionRobot\bin\Debug\VisionRobot.pdb
+C:\Users\Omar\Desktop\ComunicacioncsharpAandroid\VisionRobot\VisionRobot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Omar\Desktop\ComunicacioncsharpAandroid\VisionRobot\VisionRobot\obj\x86\Debug\MainWindow.baml
+C:\Users\Omar\Desktop\ComunicacioncsharpAandroid\VisionRobot\VisionRobot\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Omar\Desktop\ComunicacioncsharpAandroid\VisionRobot\VisionRobot\obj\x86\Debug\App.g.cs
+C:\Users\Omar\Desktop\ComunicacioncsharpAandroid\VisionRobot\VisionRobot\obj\x86\Debug\VisionRobot_MarkupCompile.cache
+C:\Users\Omar\Desktop\ComunicacioncsharpAandroid\VisionRobot\VisionRobot\obj\x86\Debug\VisionRobot.g.resources
+C:\Users\Omar\Desktop\ComunicacioncsharpAandroid\VisionRobot\VisionRobot\obj\x86\Debug\VisionRobot.Properties.Resources.resources
+C:\Users\Omar\Desktop\ComunicacioncsharpAandroid\VisionRobot\VisionRobot\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Omar\Desktop\ComunicacioncsharpAandroid\VisionRobot\VisionRobot\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Omar\Desktop\ComunicacioncsharpAandroid\VisionRobot\VisionRobot\obj\x86\Debug\VisionRobot.exe
+C:\Users\Omar\Desktop\ComunicacioncsharpAandroid\VisionRobot\VisionRobot\obj\x86\Debug\VisionRobot.pdb
